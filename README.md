@@ -98,12 +98,12 @@ Análise exploratória de dados (EDA) completa de um dataset com **539.383 voos*
 ### Gráficos Gerados Durante a Análise
 
 <p align="center">
-  <img src="outputs/distribuicao_atrasos.png" width="48%" />
-  <img src="outputs/heatmap_correlacoes.png" width="48%" />
+  <img src="desafio-senai-aed/outputs/distribuicao_atrasos.png" width="48%" />
+  <img src="desafio-senai-aed/outputs/heatmap_correlacoes.png" width="48%" />
 </p>
 
 <p align="center">
-  <img src="outputs/distribuicao_categorias.png" width="60%" />
+   <img src="desafio-senai-aed/outputs/distribuicao_categorias.png" width="48%" />
 </p>
 
 **Gráficos disponíveis:**
