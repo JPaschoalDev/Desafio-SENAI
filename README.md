@@ -95,14 +95,21 @@ Análise exploratória de dados (EDA) completa de um dataset com **539.383 voos*
 
 ## 📊 Visualizações
 
+### Gráficos Gerados Durante a Análise
+
 <p align="center">
-  <img src="outputs/distribuicao_atrasos.png" width="45%" />
-  <img src="outputs/heatmap_correlacoes.png" width="45%" />
+  <img src="outputs/distribuicao_atrasos.png" width="48%" />
+  <img src="outputs/heatmap_correlacoes.png" width="48%" />
 </p>
 
 <p align="center">
-  <img src="outputs/distribuicao_categorias.png" width="45%" />
+  <img src="outputs/distribuicao_categorias.png" width="60%" />
 </p>
+
+**Gráficos disponíveis:**
+- **Distribuição dos Atrasos:** Histograma e boxplot mostrando a proporção de voos atrasados
+- **Matriz de Correlação:** Heatmap com correlações entre variáveis numéricas
+- **Distribuição por Categoria:** Comparação entre voos pontuais e atrasados
 
 ---
 
