@@ -1,6 +1,6 @@
 # 🛫 Análise Exploratória de Atrasos em Voos
 
-> Projeto do Desafio 01 - Curso de Inteligência Artificial Industrial (SENAI)
+> Projeto Desafio - Curso de Inteligência Artificial Industrial (SENAI)
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-1.5+-green.svg)](https://pandas.pydata.org/)
