@@ -102,7 +102,6 @@ Análise exploratória de dados (EDA) completa de um dataset com **539.383 voos*
 
 <p align="center">
   <img src="outputs/distribuicao_categorias.png" width="45%" />
-  <img src="outputs/top_companhias_atrasos.png" width="45%" />
 </p>
 
 ---
