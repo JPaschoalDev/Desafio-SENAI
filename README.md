@@ -6,6 +6,10 @@
 [![Pandas](https://img.shields.io/badge/Pandas-1.5+-green.svg)](https://pandas.pydata.org/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
+![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
+![Python](https://img.shields.io/badge/Python-3.8+-blue)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
+
 ## 📊 Sobre o Projeto
 
 Análise exploratória de dados (EDA) completa de um dataset com **539.383 voos** para identificar padrões e fatores que influenciam atrasos de aeronaves. O projeto aplica técnicas de Data Science para preparação de dados e feature engineering.
