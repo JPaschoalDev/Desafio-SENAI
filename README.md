@@ -7,7 +7,6 @@
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
-![Python](https://img.shields.io/badge/Python-3.8+-blue)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
 
 ## 📊 Sobre o Projeto
